@@ -1,0 +1,2 @@
+GET http://localhost/users/1
+Authorization: 111111111
